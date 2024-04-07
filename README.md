@@ -1,3 +1,4 @@
+[Extracted.pdf](https://github.com/github/haikus-for-codespaces/files/14896118/Extracted.pdf)
 
 # Haikus for Codespaces
 
